@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.u-error {
+  padding: 16px;
+  background-color: #edc8c5;
+  color: #b4302b;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+button.u-cancel {
+  margin-right: auto;
+}
